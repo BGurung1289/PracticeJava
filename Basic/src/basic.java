@@ -31,7 +31,8 @@ public class basic {
 		//fun.out(arr);
 		
 		fun.dup(arr, arr2);
-		fun.out(arr2);;
+		fun.out(arr2);
+		
 		
 	}
 	
